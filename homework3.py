@@ -23,4 +23,4 @@ try:
         d += 1
     print ("the longer substring in alphabetical order is",f)
 except :
-    print("please  only use letter and space" )
+    print("please  only use letter and space, at least 2 letter needed" )
